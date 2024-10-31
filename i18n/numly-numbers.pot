@@ -1,0 +1,41 @@
+# Copyright (C) 2010 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version:  \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/numly-numbers\n"
+"POT-Creation-Date: 2011-09-26 22:49:17+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: numly.php:109
+msgid "Options Saved"
+msgstr ""
+
+#: numly.php:117
+msgid "Your numly User Name"
+msgstr ""
+
+#: numly.php:118
+msgid "(Note: The plugin will not operate without it.)"
+msgstr ""
+
+#: numly.php:125
+msgid "Your Name or the name of the publisher of the content."
+msgstr ""
+
+#: numly.php:135
+msgid "Display the barcode?"
+msgstr ""
+
+#: numly.php:138
+msgid "What Creative Commons License would you like to use?"
+msgstr ""
+
+#: numly.php:152
+msgid "Update"
+msgstr ""
